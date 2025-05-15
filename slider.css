@@ -1,0 +1,22 @@
+<style>
+.slider {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
+.slide {
+  width: 100%;
+  height: auto;
+  display: none;
+}
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  border: none
+::contentReference[oaicite:0]{index=0}
+ 
+/* CSS Document */
+
